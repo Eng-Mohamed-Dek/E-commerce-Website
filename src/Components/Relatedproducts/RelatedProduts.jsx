@@ -1,5 +1,5 @@
 import data_product from "../../assets/data";
-import { Item } from "../item/item";
+import { Item } from "../item/Item";
 import "./RelatedProducts.css";
 
 export const RelatedProduts = () => {
