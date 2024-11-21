@@ -1,6 +1,6 @@
 import "./popular.css";
 import data_product from '../../assets/data';
-import { Item } from "../item/item";
+import { Item } from "../item/Item";
 
 export const Popular = () => {
   return (
