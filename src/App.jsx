@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import { Footer } from "./Components/Footer/Footer";
 import { Navbar } from "./Components/Navbar/Navbar";
-import { LoginSignup } from "./Pages/loginSignup";
+import { LoginSignup } from "./Pages/LoginSignup";
 import { Product } from "./Pages/Product";
 import { Shop } from "./Pages/shop";
 import { ShopCategory } from "./Pages/ShopCategory";
